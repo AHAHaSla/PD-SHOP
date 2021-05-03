@@ -199,6 +199,28 @@ a {
     top: 3240px;
 }
 
+.bgc1 {
+    position: absolute;
+    left: 465px;
+    width: 1920px;
+    height: 1080px;
+    top: 0px;
+}
+.bgc2 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 1080px;
+}
+.bgc3 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 2160px;
+}
+
 .img-gang {
     position: absolute;
     width: 870px;
@@ -328,5 +350,92 @@ a {
     font-size: 30px;
 
     color: #000000;
+}
+
+.disc-vlad {
+    position: absolute;
+    width: 786px;
+    height: 220px;
+    left: 558px;
+    top: 200px;
+
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+
+    color: #FFFFFF;
+}
+.discription-vlad {
+    position: absolute;
+    width: 633px;
+    height: 362px;
+    left: 558px;
+    top: 420px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+
+    color: #FFFFFF;
+}
+
+.disc-elep {
+    position: absolute;
+    width: 786px;
+    height: 220px;
+    left: 558px;
+    top: 1280px;
+
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+
+    color: #FFFFFF;
+}
+.discription-elep {
+    position: absolute;
+    width: 433px;
+    height: 362px;
+    left: 558px;
+    top: 1500px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+
+    color: #FFFFFF;
+}
+
+.disc-hec {
+    position: absolute;
+    width: 786px;
+    height: 220px;
+    left: 558px;
+    top: 2360px;
+
+    font-family: Anton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150px;
+
+    color: #FFFFFF;
+}
+.discription-hec {
+    position: absolute;
+    width: 433px;
+    height: 362px;
+    left: 558px;
+    top: 2580px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+
+    color: #FFFFFF;
 }
 
